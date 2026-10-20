@@ -1,2 +1,12 @@
-# incident-investigations
-Incident investigation write-ups from LetsDefend, CyberDefenders and TryHackMe: what I found, how I investigated, and the conclusion.
+# Incident Investigations
+
+Write-ups of incident investigations done on training platforms (LetsDefend, CyberDefenders, TryHackMe).
+
+## Investigations
+-
+
+## Each write-up includes
+- Scenario and available logs
+- Investigation steps and tools (SIEM queries, log analysis)
+- Findings and timeline
+- Conclusion and recommended response
