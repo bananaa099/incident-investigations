@@ -60,9 +60,9 @@ Note: SIEM timestamps are shown in a different time zone than the alerts.
 
 ## Screenshots
 
-- `images/01-case-report-8817.png` - report for the Microsoft email
-- `images/02-case-report-8816.png` - report for the blocked click
-- `images/03-case-report-8818.png` - report for the false positive
-- `images/04-siem-hrconnex-internal-email.png` - SIEM: hrconnex.thm is our HR partner
-- `images/05-trydetectthis-bitly-malicious.png` - bit.ly link flagged as malicious
-- `images/06-siem-m1crosoft-allowed.png` - SIEM: the email and the allowed connection one minute later
+- `screenshots/01-case-report-8817.png` - report for the Microsoft email
+- `screenshots/02-case-report-8816.png` - report for the blocked click
+- `screenshots/03-case-report-8818.png` - report for the false positive
+- `screenshots/04-siem-hrconnex-internal-email.png` - SIEM: hrconnex.thm is our HR partner
+- `screenshots/05-trydetectthis-bitly-malicious.png` - bit.ly link flagged as malicious
+- `screenshots/06-siem-m1crosoft-allowed.png` - SIEM: the email and the allowed connection one minute later

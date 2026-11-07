@@ -5,6 +5,7 @@ Write-ups of incident investigations done on training platforms
 ## Investigations
 - 01-soc-simulator-phishing (THM)
 - 02-soc-simulator-phishing-unfolding (THM)
+- 03-credential-stuffing-to-bonita-rce (HTB)
 
 ## Each write-up includes
 - Scenario and available logs

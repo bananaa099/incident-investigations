@@ -99,8 +99,8 @@ I tried to catch the DNS exfiltration in Wireshark from the analyst VM. I starte
 
 ## Screenshots
 
-- images/01-powerview-dropped.png - PowerView.ps1 created in Downloads
-- images/02-dns-exfil-nslookup.png - the nslookup DNS exfil queries to haz4rdw4re.io
-- images/03-forceupdate-vm.png - the attacker's lure script (forceupdate.ps1) disguised as a Windows Update tool
-- images/04-decoded-base64.png - decoded file names from the DNS queries (ClientPortfolio, Summary.xlsx)
-- images/05-siem-splunk-logs.png - SIEM search on michael.ascot showing the chain (PowerView -> net use -> Robocopy)
+- screenshots/01-powerview-dropped.png - PowerView.ps1 created in Downloads
+- screenshots/02-dns-exfil-nslookup.png - the nslookup DNS exfil queries to haz4rdw4re.io
+- screenshots/03-forceupdate-vm.png - the attacker's lure script (forceupdate.ps1) disguised as a Windows Update tool
+- screenshots/04-decoded-base64.png - decoded file names from the DNS queries (ClientPortfolio, Summary.xlsx)
+- screenshots/05-siem-splunk-logs.png - SIEM search on michael.ascot showing the chain (PowerView -> net use -> Robocopy)
